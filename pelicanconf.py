@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-LOAD_CONTENT_CACHE = False # Disable caching for testing
-
 AUTHOR = 'hugh'
 SITENAME = 'mycoolblog'
 SITEURL = ''
@@ -34,3 +32,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+LOAD_CONTENT_CACHE = False # Disable caching for testing
+THEME = 'templates/mytheme'
