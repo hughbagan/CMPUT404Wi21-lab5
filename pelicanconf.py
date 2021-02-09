@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Lab Five'
+AUTHOR = 'Hug'
 SITENAME = 'Welcome to Lab Five'
 SITEURL = ''
 

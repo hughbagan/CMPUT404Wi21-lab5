@@ -1,0 +1,17 @@
+CMPUT 404 Wi21
+Lab 5
+Hugh Bagan
+https://github.com/hughbagan/CMPUT404Wi21-lab5
+
+Question 1
+----------
+Static site generators are obviously great for serving static sites,
+particularly sites that have a lot of structured (written) content
+because then they can make use of templating.
+Naturally, the big disadvantage is that you cannot have any dynamic
+content that you usually have in a fully-fledged application; no 
+scripting or javascript. (Unless you do something like JAMstack...)
+
+Question 2
+----------
+https://hughbagan.github.io/CMPUT404Wi21-lab5/
