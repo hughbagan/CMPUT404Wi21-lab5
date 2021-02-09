@@ -1,5 +1,5 @@
 Title: Leetcode is for suckers
-Date: 2021-02-08 11:47
+Date: 2021-02-08 23:47
 Category: Blog
 
 (Ok so im writing this post on my Mom's ipad i stole it because she doesn't let me go on my computer past my bedtime.)
