@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'hugh'
-SITENAME = 'mycoolblog'
+AUTHOR = 'Lab Five'
+SITENAME = 'Welcome to Lab Five'
 SITEURL = ''
 
 PATH = 'content'
