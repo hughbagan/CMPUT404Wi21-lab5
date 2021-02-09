@@ -1,0 +1,21 @@
+html, body {
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: sans-serif;
+	background-color: #DDD;
+	color: #111;
+}
+#banner h1 { /* Site title */
+	margin-bottom: 0;
+}
+#menu ul {
+	margin: 0;
+}
+#categories-header {
+	margin-bottom: 0;
+}
+
+#about {
+	font-size: 0.8em;
+}
